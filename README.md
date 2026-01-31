@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahstack24&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahstack24" /> </p>
 
-- 🔭 I’m currently working on **Hangman Game**
+- 🔭 I’m currently working on **Semester Projects**
 
 - 🌱 I’m currently learning **SQL , Java , HTML & CSS**
 
