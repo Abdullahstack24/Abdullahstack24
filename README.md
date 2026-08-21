@@ -71,23 +71,9 @@
 </table>
 
 ---
+🌐 Portfolio
+<p align="center"> <a href="https://abdullah-portfolio-three-pi.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahstack24&layout=compact&theme=radical" alt="Top Languages" width="49%"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahstack24&theme=redical" alt="Activity Graph" width="90%"/> </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="//github-readme-stats.vercel.app/api?username=abdullahstack24&show_icons=true&theme=radical"
-  alt="abdullahstack24 stats" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=abdullahstack24&theme=radical" alt="abdullahstack24 streak" width="49%"/>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahstack24&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahstack24&theme=redical" alt="Activity Graph" width="90%"/>
-</p>
-
----
 
 ### 🤝 Connect with me
 
