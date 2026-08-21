@@ -76,8 +76,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abdullahstack24&show_icons=true&theme=radical&count_private=true" alt="abdullahstack24 stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahstack24&theme=radical" alt="abdullahstack24 streak" width="49%"/>
-</p>
+<img src="https://streak-stats.demolab.com/?user=abdullahstack24&theme=radical" alt="abdullahstack24 streak" width="49%"/>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahstack24&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
